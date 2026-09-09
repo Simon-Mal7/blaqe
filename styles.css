@@ -1,0 +1,31 @@
+h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 48px;
+    letter-spacing: 3px;
+}
+
+p{
+    font-family: "Inter", sans-serif;
+    line-height: 1.6;
+}
+
+h2{
+    font-family: "inter", sans-serif;
+    line-height: 2.0;
+}
+
+h3{
+    font-family: "inter", sans-serif;
+    line-height: 1.8;
+}
+
+li{
+    font-family: "inter", sans-serif;
+    line-height: 1.8;
+}
+
+img{
+    width: 100%;
+    max-width:350px;
+    height:auto;
+}
